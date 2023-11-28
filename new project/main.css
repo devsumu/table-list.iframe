@@ -1,0 +1,125 @@
+.tab{
+
+	margin: auto;
+	border-collapse: collapse;
+	
+
+}
+.tab th,td{
+	
+    border: 1px solid black;
+	padding: 10px;
+}
+.color{
+	background-color: yellowgreen;
+}
+.colorth{
+	background-color:deeppink;
+}.colors{
+	background-color: fuchsia;
+}
+.sumut{
+	margin-left: 50px;
+	margin: auto;
+	margin-top: 5px;
+	border-collapse: collapse;
+}
+.sumut th,td{
+	border: 1px solid;
+
+}
+.sool{
+	background-color: aqua;
+	padding: auto;
+	
+	margin-top: 8px;
+}
+.mitu{
+	border-collapse: collapse;
+	margin-top: 40px;
+	
+	 
+}
+.mitu th,td{
+	
+	border: 1px solid;
+
+}
+.tsts{
+	border-collapse: collapse;
+	margin-top: 40px;
+
+}
+.tsts th,td{
+	border: 1px solid;
+}
+.sobji{
+	border-collapse: collapse;
+	margin: auto;
+
+
+}
+.sobji th,td{
+	border: 1px solid black;
+	padding: 10px;
+}
+.college{
+	background-color: blanchedalmond;
+}
+
+.list{
+	font-size: 30px;
+	list-style-type: lower-alpha;
+}
+.ist{
+	font-size: 20px;
+	color: red;
+	list-style-type: lower-roman;
+}
+.suji{
+	font-size: 25px;
+	list-style-type:lower-greek;
+
+}
+.order{
+	font-size: 30px;
+	list-style-type:disc;
+	color: blue;
+}
+
+.video{
+	border: none;
+	border-radius: 15px;
+	height: 300px;
+	width: 450px;
+
+}
+.issa{
+	margin-top: 30px;
+}
+
+
+.ssll2{
+	margin-top: 20px;
+	margin-left: 300px;
+
+
+
+
+}
+.ssll{
+	border-radius: 10px;
+	border: 2px solid red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
